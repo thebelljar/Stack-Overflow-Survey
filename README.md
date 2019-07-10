@@ -36,6 +36,8 @@ There is one iPython notebook available here to showcase work related to the abo
   * Social/Natural sciences and business discipline undergraduate studies
   * Zero to five years of programmign experience
   * Over 20 years of coding experience in a job
+  
+The wider discussion can be found in the blog post here: https://medium.com/@a.abrosimova1/female-developer-fact-or-fiction-6a6e41a50818
 
 ### Licensing, Authors, Acknowledgements
 
